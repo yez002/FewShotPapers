@@ -505,7 +505,7 @@ Please cite our paper if you find it helpful.
 *A. Torralba, J. B. Tenenbaum, and R. R. Salakhutdinov.*
 [paper](https://papers.nips.cc/paper/4474-learning-to-learn-with-compound-hd-models.pdf)
 
-1. **One-shot learning with a hierarchical nonparametric bayesian model,** in ICML Workshop on Unsupervised and Transfer Learning, 2012.
+1. **One-shot learning with a hierarchical nonparametric Bayesian model,** in ICML Workshop on Unsupervised and Transfer Learning, 2012.
 *R. Salakhutdinov, J. Tenenbaum, and A. Torralba.*
 [paper](http://proceedings.mlr.press/v27/salakhutdinov12a/salakhutdinov12a.pdf)
 
